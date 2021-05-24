@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\naich\Desktop\New Design\PCB\bottomBoard\bottomBoard.sch</source>
+    <date>8/9/2020 2:24:16 PM</date>
+    <tool>Eeschema (5.1.6)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>bottomBoard.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="LaserPower2">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Libraries:JST_B2B-XH-A(LF)(SN)</footprint>
+      <datasheet>JST</datasheet>
+      <fields>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">N/A</field>
+      </fields>
+      <libsource lib="JST_-_2" part="B2B-XH-A(LF)(SN)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2EA1E6</tstamp>
+    </comp>
+    <comp ref="LaserSignal1">
+      <value>B3B-XH-A(LF)(SN)</value>
+      <footprint>Libraries:JST_B3B-XH-A(LF)(SN)</footprint>
+      <datasheet>7.0mm</datasheet>
+      <fields>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">JST</field>
+        <field name="Field6">NA</field>
+      </fields>
+      <libsource lib="JST_-_3" part="B3B-XH-A(LF)(SN)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2EAFE8</tstamp>
+    </comp>
+    <comp ref="LaserSignal2">
+      <value>B3B-XH-A(LF)(SN)</value>
+      <footprint>Libraries:JST_B3B-XH-A(LF)(SN)</footprint>
+      <datasheet>7.0mm</datasheet>
+      <fields>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">JST</field>
+        <field name="Field6">NA</field>
+      </fields>
+      <libsource lib="JST_-_3" part="B3B-XH-A(LF)(SN)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2EB88D</tstamp>
+    </comp>
+    <comp ref="LightSensorPin1">
+      <value>Conn_01x08_MountingPin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic_MountingPin" part="Conn_01x08_MountingPin" description="Generic connectable mounting pin connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F314780</tstamp>
+    </comp>
+    <comp ref="Kicker1">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Libraries:JST_B2B-XH-A(LF)(SN)</footprint>
+      <datasheet>JST</datasheet>
+      <fields>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">N/A</field>
+      </fields>
+      <libsource lib="JST_-_2" part="B2B-XH-A(LF)(SN)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F327807</tstamp>
+    </comp>
+    <comp ref="Kicker2">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Libraries:JST_B2B-XH-A(LF)(SN)</footprint>
+      <datasheet>JST</datasheet>
+      <fields>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">N/A</field>
+      </fields>
+      <libsource lib="JST_-_2" part="B2B-XH-A(LF)(SN)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F3285AC</tstamp>
+    </comp>
+    <comp ref="MidBoardPin1">
+      <value>Conn_01x10_MountingPin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic_MountingPin" part="Conn_01x10_MountingPin" description="Generic connectable mounting pin connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F329F2E</tstamp>
+    </comp>
+    <comp ref="Teensy-Light1">
+      <value>DEV-15583</value>
+      <footprint>Libraries:MODULE_DEV-15583</footprint>
+      <datasheet>Sparkfun</datasheet>
+      <fields>
+        <field name="Field4">5.87mm</field>
+        <field name="Field5">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="DEV-15583" part="DEV-15583" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E2062</tstamp>
+    </comp>
+    <comp ref="LaserPower1">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Libraries:JST_B2B-XH-A(LF)(SN)</footprint>
+      <datasheet>JST</datasheet>
+      <fields>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">N/A</field>
+      </fields>
+      <libsource lib="JST_-_2" part="B2B-XH-A(LF)(SN)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E954D</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Libraries:JST_B2B-XH-A(LF)(SN)</footprint>
+      <datasheet>JST</datasheet>
+      <fields>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">N/A</field>
+      </fields>
+      <libsource lib="JST_-_2" part="B2B-XH-A(LF)(SN)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F3642E3</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic_MountingPin" part="Conn_01x08_MountingPin">
+      <description>Generic connectable mounting pin connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??-1MP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_MountingPin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="MP" name="MountPin" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic_MountingPin" part="Conn_01x10_MountingPin">
+      <description>Generic connectable mounting pin connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??-1MP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_MountingPin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="MP" name="MountPin" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DEV-15583" part="DEV-15583">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DEV-15583</field>
+        <field name="Footprint">MODULE_DEV-15583</field>
+        <field name="Datasheet">Sparkfun</field>
+        <field name="Field4">5.87mm</field>
+        <field name="Field5">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="0" name="0" type="BiDi"/>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+        <pin num="3" name="3" type="BiDi"/>
+        <pin num="4" name="4" type="BiDi"/>
+        <pin num="5" name="5" type="BiDi"/>
+        <pin num="6" name="6" type="BiDi"/>
+        <pin num="7" name="7" type="BiDi"/>
+        <pin num="8" name="8" type="BiDi"/>
+        <pin num="9" name="9" type="BiDi"/>
+        <pin num="10" name="10" type="BiDi"/>
+        <pin num="11" name="11" type="BiDi"/>
+        <pin num="12" name="12" type="BiDi"/>
+        <pin num="13" name="13" type="BiDi"/>
+        <pin num="14" name="14" type="BiDi"/>
+        <pin num="15" name="15" type="BiDi"/>
+        <pin num="16" name="16" type="BiDi"/>
+        <pin num="17" name="17" type="BiDi"/>
+        <pin num="18" name="18" type="BiDi"/>
+        <pin num="19" name="19" type="BiDi"/>
+        <pin num="20" name="20" type="BiDi"/>
+        <pin num="21" name="21" type="BiDi"/>
+        <pin num="22" name="22" type="BiDi"/>
+        <pin num="23" name="23" type="BiDi"/>
+        <pin num="3.3V_1" name="3.3V_1" type="power_in"/>
+        <pin num="3.3V_2" name="3.3V_2" type="power_in"/>
+        <pin num="G1" name="G1" type="power_in"/>
+        <pin num="G2" name="G2" type="power_in"/>
+        <pin num="G3" name="G3" type="power_in"/>
+        <pin num="ONOFF" name="ON/OFF" type="BiDi"/>
+        <pin num="PGM" name="PROGRAM" type="BiDi"/>
+        <pin num="VBAT" name="VBAT" type="power_in"/>
+        <pin num="VIN" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="JST_-_2" part="B2B-XH-A(LF)(SN)">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B2B-XH-A(LF)(SN)</field>
+        <field name="Footprint">JST_B2B-XH-A(LF)(SN)</field>
+        <field name="Datasheet">JST</field>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="JST_-_3" part="B3B-XH-A(LF)(SN)">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B3B-XH-A(LF)(SN)</field>
+        <field name="Footprint">JST_B3B-XH-A(LF)(SN)</field>
+        <field name="Datasheet">7.0mm</field>
+        <field name="Field4">Manufacturer Recommendations</field>
+        <field name="Field5">JST</field>
+        <field name="Field6">NA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic_MountingPin">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic_MountingPin.lib</uri>
+    </library>
+    <library logical="DEV-15583">
+      <uri>C:/Users/naich/Desktop/New Design/PCB/Libraries/DEV-15583.lib</uri>
+    </library>
+    <library logical="JST_-_2">
+      <uri>C:/Users/naich/Desktop/New Design/PCB/Libraries/JST - 2.lib</uri>
+    </library>
+    <library logical="JST_-_3">
+      <uri>C:/Users/naich/Desktop/New Design/PCB/Libraries/JST - 3.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(Teensy-Light1-Pad18)">
+      <node ref="Teensy-Light1" pin="18"/>
+    </net>
+    <net code="2" name="Net-(MidBoardPin1-Pad2)">
+      <node ref="Teensy-Light1" pin="9"/>
+      <node ref="MidBoardPin1" pin="2"/>
+    </net>
+    <net code="3" name="Net-(MidBoardPin1-Pad1)">
+      <node ref="MidBoardPin1" pin="1"/>
+      <node ref="Teensy-Light1" pin="10"/>
+    </net>
+    <net code="4" name="Net-(Teensy-Light1-Pad11)">
+      <node ref="Teensy-Light1" pin="11"/>
+    </net>
+    <net code="5" name="Net-(Teensy-Light1-Pad12)">
+      <node ref="Teensy-Light1" pin="12"/>
+    </net>
+    <net code="6" name="Net-(Teensy-Light1-PadG3)">
+      <node ref="Teensy-Light1" pin="G3"/>
+    </net>
+    <net code="7" name="Net-(Teensy-Light1-Pad23)">
+      <node ref="Teensy-Light1" pin="23"/>
+    </net>
+    <net code="8" name="Net-(Teensy-Light1-Pad22)">
+      <node ref="Teensy-Light1" pin="22"/>
+    </net>
+    <net code="9" name="Net-(Teensy-Light1-Pad21)">
+      <node ref="Teensy-Light1" pin="21"/>
+    </net>
+    <net code="10" name="Net-(Teensy-Light1-Pad20)">
+      <node ref="Teensy-Light1" pin="20"/>
+    </net>
+    <net code="11" name="Net-(Teensy-Light1-Pad19)">
+      <node ref="Teensy-Light1" pin="19"/>
+    </net>
+    <net code="12" name="Net-(MidBoardPin1-Pad3)">
+      <node ref="MidBoardPin1" pin="3"/>
+      <node ref="Teensy-Light1" pin="8"/>
+    </net>
+    <net code="13" name="Net-(Teensy-Light1-Pad17)">
+      <node ref="Teensy-Light1" pin="17"/>
+    </net>
+    <net code="14" name="Net-(Teensy-Light1-Pad16)">
+      <node ref="Teensy-Light1" pin="16"/>
+    </net>
+    <net code="15" name="Net-(Teensy-Light1-Pad15)">
+      <node ref="Teensy-Light1" pin="15"/>
+    </net>
+    <net code="16" name="Net-(Teensy-Light1-Pad14)">
+      <node ref="Teensy-Light1" pin="14"/>
+    </net>
+    <net code="17" name="Net-(Teensy-Light1-Pad13)">
+      <node ref="Teensy-Light1" pin="13"/>
+    </net>
+    <net code="18" name="Net-(Teensy-Light1-PadVBAT)">
+      <node ref="Teensy-Light1" pin="VBAT"/>
+    </net>
+    <net code="19" name="Net-(Teensy-Light1-PadONOFF)">
+      <node ref="Teensy-Light1" pin="ONOFF"/>
+    </net>
+    <net code="20" name="Net-(Teensy-Light1-PadPGM)">
+      <node ref="Teensy-Light1" pin="PGM"/>
+    </net>
+    <net code="21" name="Net-(MidBoardPin1-Pad8)">
+      <node ref="MidBoardPin1" pin="8"/>
+      <node ref="Teensy-Light1" pin="0"/>
+    </net>
+    <net code="22" name="Net-(MidBoardPin1-Pad7)">
+      <node ref="Teensy-Light1" pin="1"/>
+      <node ref="MidBoardPin1" pin="7"/>
+    </net>
+    <net code="23" name="Net-(LightSensorPin1-Pad6)">
+      <node ref="LightSensorPin1" pin="6"/>
+      <node ref="Teensy-Light1" pin="2"/>
+    </net>
+    <net code="24" name="Net-(LightSensorPin1-Pad2)">
+      <node ref="Teensy-Light1" pin="6"/>
+      <node ref="LightSensorPin1" pin="2"/>
+    </net>
+    <net code="25" name="Net-(LightSensorPin1-Pad1)">
+      <node ref="Teensy-Light1" pin="7"/>
+      <node ref="LightSensorPin1" pin="1"/>
+    </net>
+    <net code="26" name="GND">
+      <node ref="Kicker1" pin="2"/>
+      <node ref="Kicker2" pin="2"/>
+      <node ref="LaserPower2" pin="2"/>
+      <node ref="LaserSignal1" pin="3"/>
+      <node ref="MidBoardPin1" pin="10"/>
+      <node ref="LaserSignal2" pin="3"/>
+      <node ref="LightSensorPin1" pin="8"/>
+      <node ref="J1" pin="2"/>
+      <node ref="LaserPower1" pin="2"/>
+      <node ref="Teensy-Light1" pin="G1"/>
+      <node ref="Teensy-Light1" pin="G2"/>
+    </net>
+    <net code="27" name="+3V3">
+      <node ref="Teensy-Light1" pin="3.3V_1"/>
+      <node ref="Teensy-Light1" pin="3.3V_2"/>
+      <node ref="LightSensorPin1" pin="7"/>
+    </net>
+    <net code="28" name="+5V">
+      <node ref="Teensy-Light1" pin="VIN"/>
+      <node ref="J1" pin="1"/>
+      <node ref="LaserPower1" pin="1"/>
+      <node ref="MidBoardPin1" pin="9"/>
+      <node ref="LaserPower2" pin="1"/>
+      <node ref="LaserSignal1" pin="2"/>
+      <node ref="LaserSignal2" pin="2"/>
+    </net>
+    <net code="29" name="Net-(MidBoardPin1-PadMP)">
+      <node ref="MidBoardPin1" pin="MP"/>
+    </net>
+    <net code="30" name="Net-(LightSensorPin1-PadMP)">
+      <node ref="LightSensorPin1" pin="MP"/>
+    </net>
+    <net code="31" name="Net-(LightSensorPin1-Pad4)">
+      <node ref="Teensy-Light1" pin="4"/>
+      <node ref="LightSensorPin1" pin="4"/>
+    </net>
+    <net code="32" name="Net-(LightSensorPin1-Pad5)">
+      <node ref="Teensy-Light1" pin="3"/>
+      <node ref="LightSensorPin1" pin="5"/>
+    </net>
+    <net code="33" name="Net-(LightSensorPin1-Pad3)">
+      <node ref="Teensy-Light1" pin="5"/>
+      <node ref="LightSensorPin1" pin="3"/>
+    </net>
+    <net code="34" name="Net-(Kicker1-Pad1)">
+      <node ref="Kicker2" pin="1"/>
+      <node ref="Kicker1" pin="1"/>
+      <node ref="MidBoardPin1" pin="6"/>
+    </net>
+    <net code="35" name="Net-(LaserSignal1-Pad1)">
+      <node ref="MidBoardPin1" pin="5"/>
+      <node ref="LaserSignal1" pin="1"/>
+    </net>
+    <net code="36" name="Net-(LaserSignal2-Pad1)">
+      <node ref="MidBoardPin1" pin="4"/>
+      <node ref="LaserSignal2" pin="1"/>
+    </net>
+  </nets>
+</export>

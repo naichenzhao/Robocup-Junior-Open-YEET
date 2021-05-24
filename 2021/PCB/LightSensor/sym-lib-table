@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LTW-150TK)(type Legacy)(uri "C:/Users/naich/Desktop/New Design/PCB/Libraries/LTW-150TK.lib")(options "")(descr ""))
+  (lib (name LightSensor-rescue)(type Legacy)(uri ${KIPRJMOD}/LightSensor-rescue.lib)(options "")(descr ""))
+)

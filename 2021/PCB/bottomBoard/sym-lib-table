@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bottomBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/bottomBoard-rescue.lib)(options "")(descr ""))
+)

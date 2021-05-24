@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP VNH7070ASTR
+D Motor / Motion / Ignition Controllers & Drivers
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/08/97/0a/0c/cf/4b/41/40/DM00213876.pdf/files/DM00213876.pdf/jcr:content/translations/en.DM00213876.pdf
+$ENDCMP
+#
+$CMP UUD1V331MNL1GS
+D Al Cap UD series SMT 330uF 35V Nichicon Aluminium Electrolytic Capacitor 330uF 35 V 10mm Surface Mount 5101-4 series UD lifetime 5000h
+K
+F https://componentsearchengine.com/Datasheets/1/UUD1V331MNL1GS.pdf
+$ENDCMP
+#
+#End Doc Library
