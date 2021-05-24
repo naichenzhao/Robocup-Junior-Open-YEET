@@ -4,6 +4,10 @@ These are the robot designs I created for Robocup Open weight.
 
 These are my own creations and since I have graduated from the event, anyone rteading this is free to build off of any of my designs. My hope for this is to inspire others to build off of what I haev and use them to create even better concepts for the competition.
 
+If you have any questions or concerns regarding the design, feel free to contact me:
+- Twitter: https://twitter.com/N_zhao_
+- Discord: https://discord.gg/ySBR4mmBkV
+
 Included are:
 - My 2020 design I planned on using for that year's competition - This is mostly tested but never created
 - My 2021 design Which is pureley theoretical. It is a modefied version of the 2020 design built around a 20cm diameter
