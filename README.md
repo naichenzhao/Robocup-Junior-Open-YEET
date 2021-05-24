@@ -8,10 +8,11 @@ If you have any questions or concerns regarding the design, feel free to contact
 - Twitter: https://twitter.com/N_zhao_
 - Discord: https://discord.gg/ySBR4mmBkV
 
-Included are:
+
+
+Included in the repo are:
 - My 2020 design I planned on using for that year's competition - This is mostly tested but never created
 - My 2021 design Which is pureley theoretical. It is a modefied version of the 2020 design built around a 20cm diameter
-
 
 
 
