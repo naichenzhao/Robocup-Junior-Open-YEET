@@ -1,4 +1,4 @@
-**Robocup JUnior YEET**
+**Robocup Junior YEET**
 
 These are the robot designs I created for Robocup Junior Open weight. 
 
