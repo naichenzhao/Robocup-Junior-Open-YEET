@@ -1,6 +1,6 @@
-**Robocup**
+**Robocup JUnior YEET**
 
-These are the robot designs I created for Robocup Open weight. 
+These are the robot designs I created for Robocup Junior Open weight. 
 
 These are my own creations and since I have graduated from the event, anyone rteading this is free to build off of any of my designs. My hope for this is to inspire others to build off of what I haev and use them to create even better concepts for the competition.
 
